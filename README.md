@@ -2,15 +2,9 @@
 
 ### Desarrollador de Software | ASP.NET Core | JavaScript
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en el desarrollo de **aplicaciones web modernas** utilizando **ASP.NET Core, C# y JavaScript**.  
+Próximo egresado de **Ingeniería en Sistemas Computacionales** enfocado en el desarrollo de **aplicaciones web modernas** utilizando **ASP.NET Core, C# y JavaScript**.  
 
 Me interesa construir sistemas completos que combinen **arquitectura backend sólida** con **interfaces web funcionales y centradas en el usuario**.
-
-- 🚀 Desarrollo de **APIs REST y aplicaciones web con ASP.NET Core**
-- 📱 Creación de **Progressive Web Apps (PWA)** con funcionamiento offline
-- ⚡ Implementación de **comunicación en tiempo real con SignalR**
-- 🎨 Diseño de interfaces y prototipos en **Figma**
-- 🏆 **20° lugar internacional** en el concurso de programación *ITS San Pedro Contest*
 
 ---
 
@@ -76,7 +70,3 @@ Sistema web MVC para consulta y administración de partituras con reproducción 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-reyes-3010b2351)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio92reyes@hotmail.com)
-
----
-
-⭐ Siempre estoy interesado en aprender nuevas tecnologías y colaborar en proyectos de desarrollo web.
