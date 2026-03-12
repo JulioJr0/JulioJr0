@@ -1,51 +1,82 @@
 # ¡Hola, soy Julio Cesar! 👋
 
-### Desarrollador Frontend | Entusiasta del Diseño UX/UI | Top 20 en Programación Competitiva
+### Desarrollador de Software | ASP.NET Core | JavaScript
 
-Soy un **Ingeniero en Sistemas** en formación enfocado en construir experiencias web modernas, interactivas y eficientes. Mi objetivo es fusionar la lógica técnica con un diseño centrado en el usuario.
+Soy estudiante de **Ingeniería en Sistemas Computacionales** enfocado en el desarrollo de **aplicaciones web modernas** utilizando **ASP.NET Core, C# y JavaScript**.  
 
-- 🛠️ Actualmente perfeccionando mis habilidades en **JavaScript** y **React**.
-- 📱 Especialista en crear **Progressive Web Apps (PWAs)** con capacidades offline.
-- 🎨 Diseñador de interfaces en **Figma** con enfoque *mobile-first*.
-- 🏆 20° lugar a nivel internacional en el concurso de programación **ITS San Pedro Contest**.
+Me interesa construir sistemas completos que combinen **arquitectura backend sólida** con **interfaces web funcionales y centradas en el usuario**.
+
+- 🚀 Desarrollo de **APIs REST y aplicaciones web con ASP.NET Core**
+- 📱 Creación de **Progressive Web Apps (PWA)** con funcionamiento offline
+- ⚡ Implementación de **comunicación en tiempo real con SignalR**
+- 🎨 Diseño de interfaces y prototipos en **Figma**
+- 🏆 **20° lugar internacional** en el concurso de programación *ITS San Pedro Contest*
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+# 🚀 Tecnologías y Herramientas
 
-**Frontend & Mobile**
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-**Backend & IA**
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Otras tecnologías
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-**Diseño & Herramientas**
+### Herramientas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌟 Proyectos Destacados
+# 🌟 Proyectos Destacados
 
-#### [Juego Ahorcadito con IA]
-Aplicación web progresiva (PWA) con generación dinámica de contenido mediante la API de Google Gemini.
-* **Tech:** JS, Service Workers, Manifest, Figma.
-* **Key Feature:** Modo offline y diseño responsivo adaptativo.
+### 🎮 PWA "El Ahorcadito" con IA
+Aplicación web progresiva con generación dinámica de palabras utilizando la API de Google Gemini.
 
-#### [Sistema de Restaurante en Tiempo Real]
-Tablero Kanban interactivo para gestión de pedidos con sincronización instantánea.
-* **Tech:** SignalR, WebSockets, HTML5/CSS3.
+**Tecnologías:** JavaScript, ASP.NET Core Web API, JWT, Service Workers, PWA  
+
+🔗 https://github.com/JulioJr0/ElAhorcadito
 
 ---
 
-### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-reyes-3010b2351/)
+### 🍽️ Sistema de Restaurante en Tiempo Real
+Sistema de gestión de pedidos con tablero Kanban interactivo y sincronización en tiempo real entre clientes.
+
+**Tecnologías:** ASP.NET Core, SignalR, WebSockets, JavaScript  
+
+🔗 https://github.com/JulioJr0/Sistema_Restaurante_Tiempo_Real-
+
+---
+
+### 🎼 Repositorio de Partituras Musicales
+Sistema web MVC para consulta y administración de partituras con reproducción de audio y carga de archivos.
+
+**Tecnologías:** ASP.NET Core MVC, Entity Framework Core, MySQL  
+
+🔗 https://github.com/JulioJr0/U5ProgramacionWebPartituras
+
+---
+
+# 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-reyes-3010b2351)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio92reyes@hotmail.com)
 
 ---
+
+⭐ Siempre estoy interesado en aprender nuevas tecnologías y colaborar en proyectos de desarrollo web.
